@@ -1,5 +1,5 @@
-# DLC
-Deep Learning Study 
+# Deep Learning Study
+2018.08~
 
 1. Deep Learning Basic
 2. Standford cs231n 
